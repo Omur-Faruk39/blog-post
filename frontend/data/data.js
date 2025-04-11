@@ -1,7 +1,7 @@
 const post = [
   {
     id: 1,
-    title: "First Post",
+    title: "Lorem ipsum dolor sit amet consectet Explicabo, minima.",
     author: "John Doe",
     content: "This is the content of the first post.",
     image: "id1.avif",
@@ -9,7 +9,7 @@ const post = [
   },
   {
     id: 2,
-    title: "First Post",
+    title: "t amet consectetur adipisicing elit. Explicabo, minima.",
     author: "John Doe",
     content: "This is the content of the first post.",
     image: "id2.avif",
@@ -17,7 +17,7 @@ const post = [
   },
   {
     id: 3,
-    title: "First Post",
+    title: "um dolor sit amet consectetur adipisicing elit. Explicabo, minima.",
     author: "John Doe",
     content: "This is the content of the first post.",
     image: "id3.avif",
