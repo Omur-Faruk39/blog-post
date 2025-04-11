@@ -12,7 +12,7 @@ const post = [
     title: "First Post",
     author: "John Doe",
     content: "This is the content of the first post.",
-    image: "id2/avif",
+    image: "id2.avif",
     date: "2023-10-01",
   },
   {
